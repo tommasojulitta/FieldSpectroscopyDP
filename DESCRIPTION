@@ -7,7 +7,6 @@ Maintainer: Tommaso Julitta <tommaso.julitta@gmail.com>
 Description: R package for Characterization and Calibration of spectrometers
 Depends: R (>= 3.0.3)
 Imports: 
- splines, ...
- SDMTools
+ splines, SDMTools
 License: GPL-2
 LazyLoad: yes
