@@ -6,6 +6,5 @@ Author: Tommaso Julitta, Mirco Migliavacca, Thomas Wutzler
 Maintainer: Tommaso Julitta <tommaso.julitta@gmail.com>
 Description: R package for Characterization and Calibration of spectrometers
 Depends: R (>= 3.0.3)
-Imports: SDMTools
 License: GPL-2
 LazyLoad: yes
